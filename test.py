@@ -15,7 +15,7 @@ driver.get(website)
 all_matches_button = driver.find_element('xpath', '//label[@analytics-event="All matches"]')
 all_matches_button.click()
 
-box = driver.find_element("xpath", "//option[@label='Germany']")
+box = driver.find_element("xpath", "//option[@label='France']")
 box.click()
 
 time.sleep(5)

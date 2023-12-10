@@ -1,251 +1,271 @@
 date,home_team,away_team,score
-19-08-2023,Augsburg,M''gladbach,8 - 7
-27-08-2023,Bayern Munich,Augsburg,10 - 4
-02-09-2023,Augsburg,Bochum,3 - 5
-16-09-2023,RB Leipzig,Augsburg,1 - 6
-23-09-2023,Augsburg,Mainz,3 - 4
-01-10-2023,Freiburg,Augsburg,2 - 3
-07-10-2023,Augsburg,Darmstadt,4 - 4
-22-10-2023,Heidenheim,Augsburg,6 - 5
-28-10-2023,Augsburg,Wolfsburg,5 - 5
-04-11-2023,FC Koln,Augsburg,10 - 2
-11-11-2023,Augsburg,Hoffenheim,3 - 5
-25-11-2023,Union Berlin,Augsburg,3 - 4
-03-12-2023,Augsburg,Ein Frankfurt,2 - 4
-09-12-2023,Werder Bremen,Augsburg,-
-18-08-2023,Werder Bremen,Bayern Munich,0 - 6
-27-08-2023,Bayern Munich,Augsburg,10 - 4
-02-09-2023,M''gladbach,Bayern Munich,1 - 15
-15-09-2023,Bayern Munich,Leverkusen,7 - 4
-23-09-2023,Bayern Munich,Bochum,8 - 1
-30-09-2023,RB Leipzig,Bayern Munich,5 - 1
-08-10-2023,Bayern Munich,Freiburg,7 - 1
-21-10-2023,Mainz,Bayern Munich,2 - 7
-28-10-2023,Bayern Munich,Darmstadt,7 - 1
-04-11-2023,Dortmund,Bayern Munich,3 - 2
-11-11-2023,Bayern Munich,Heidenheim,7 - 2
-24-11-2023,FC Koln,Bayern Munich,3 - 12
-09-12-2023,Ein Frankfurt,Bayern Munich,-
-19-08-2023,Stuttgart,Bochum,6 - 0
-26-08-2023,Bochum,Dortmund,5 - 4
-02-09-2023,Augsburg,Bochum,3 - 5
-16-09-2023,Bochum,Ein Frankfurt,8 - 2
-23-09-2023,Bayern Munich,Bochum,8 - 1
-30-09-2023,Bochum,M''gladbach,5 - 10
-07-10-2023,RB Leipzig,Bochum,9 - 1
-21-10-2023,Freiburg,Bochum,5 - 2
-27-10-2023,Bochum,Mainz,5 - 4
-03-11-2023,Darmstadt,Bochum,11 - 2
-11-11-2023,Bochum,FC Koln,3 - 3
-26-11-2023,Heidenheim,Bochum,6 - 5
-02-12-2023,Bochum,Wolfsburg,6 - 6
-08-12-2023,Hoffenheim,Bochum,4 - 5
-20-08-2023,Ein Frankfurt,Darmstadt,7 - 3
-26-08-2023,Darmstadt,Union Berlin,3 - 5
-02-09-2023,Leverkusen,Darmstadt,4 - 2
-17-09-2023,Darmstadt,M''gladbach,6 - 6
-22-09-2023,Stuttgart,Darmstadt,5 - 4
-01-10-2023,Darmstadt,Werder Bremen,2 - 4
-07-10-2023,Augsburg,Darmstadt,4 - 4
-21-10-2023,Darmstadt,RB Leipzig,6 - 0
-28-10-2023,Bayern Munich,Darmstadt,7 - 1
-03-11-2023,Darmstadt,Bochum,11 - 2
-11-11-2023,Darmstadt,Mainz,0 - 5
-25-11-2023,Freiburg,Darmstadt,11 - 2
-01-12-2023,Darmstadt,FC Koln,1 - 6
-09-12-2023,Heidenheim,Darmstadt,-
-19-08-2023,Dortmund,FC Koln,6 - 3
-26-08-2023,Bochum,Dortmund,5 - 4
-01-09-2023,Dortmund,Heidenheim,3 - 6
-16-09-2023,Freiburg,Dortmund,6 - 8
-23-09-2023,Dortmund,Wolfsburg,5 - 3
-29-09-2023,Hoffenheim,Dortmund,4 - 3
-07-10-2023,Dortmund,Union Berlin,4 - 6
-20-10-2023,Dortmund,Werder Bremen,10 - 4
-29-10-2023,Ein Frankfurt,Dortmund,0 - 4
-04-11-2023,Dortmund,Bayern Munich,3 - 2
-11-11-2023,Stuttgart,Dortmund,6 - 1
-25-11-2023,Dortmund,M''gladbach,5 - 4
-03-12-2023,Leverkusen,Dortmund,16 - 1
-09-12-2023,Dortmund,RB Leipzig,-
-20-08-2023,Ein Frankfurt,Darmstadt,7 - 3
-27-08-2023,Mainz,Ein Frankfurt,5 - 4
-03-09-2023,Ein Frankfurt,FC Koln,8 - 1
-16-09-2023,Bochum,Ein Frankfurt,8 - 2
-24-09-2023,Ein Frankfurt,Freiburg,7 - 3
-30-09-2023,Wolfsburg,Ein Frankfurt,7 - 4
-08-10-2023,Ein Frankfurt,Heidenheim,3 - 6
-21-10-2023,Hoffenheim,Ein Frankfurt,6 - 3
-29-10-2023,Ein Frankfurt,Dortmund,0 - 4
-04-11-2023,Union Berlin,Ein Frankfurt,9 - 1
-12-11-2023,Werder Bremen,Ein Frankfurt,3 - 7
-25-11-2023,Ein Frankfurt,Stuttgart,4 - 2
-03-12-2023,Augsburg,Ein Frankfurt,2 - 4
-09-12-2023,Ein Frankfurt,Bayern Munich,-
-19-08-2023,Dortmund,FC Koln,6 - 3
-26-08-2023,FC Koln,Wolfsburg,6 - 1
-03-09-2023,Ein Frankfurt,FC Koln,8 - 1
-16-09-2023,FC Koln,Hoffenheim,13 - 4
-23-09-2023,Werder Bremen,FC Koln,9 - 8
-30-09-2023,FC Koln,Stuttgart,8 - 4
-08-10-2023,Leverkusen,FC Koln,11 - 4
-22-10-2023,FC Koln,M''gladbach,8 - 3
-28-10-2023,RB Leipzig,FC Koln,11 - 1
-04-11-2023,FC Koln,Augsburg,10 - 2
-11-11-2023,Bochum,FC Koln,3 - 3
-24-11-2023,FC Koln,Bayern Munich,3 - 12
-01-12-2023,Darmstadt,FC Koln,1 - 6
-10-12-2023,FC Koln,Mainz,-
-19-08-2023,Hoffenheim,Freiburg,4 - 2
-26-08-2023,Freiburg,Werder Bremen,5 - 5
-02-09-2023,Stuttgart,Freiburg,2 - 4
-16-09-2023,Freiburg,Dortmund,6 - 8
-24-09-2023,Ein Frankfurt,Freiburg,7 - 3
-01-10-2023,Freiburg,Augsburg,2 - 3
-08-10-2023,Bayern Munich,Freiburg,7 - 1
-21-10-2023,Freiburg,Bochum,5 - 2
-29-10-2023,Leverkusen,Freiburg,11 - 4
-04-11-2023,Freiburg,M''gladbach,8 - 2
-12-11-2023,RB Leipzig,Freiburg,7 - 3
-25-11-2023,Freiburg,Darmstadt,11 - 2
-03-12-2023,Mainz,Freiburg,14 - 3
-09-12-2023,Wolfsburg,Freiburg,-
-19-08-2023,Wolfsburg,Heidenheim,1 - 7
-26-08-2023,Heidenheim,Hoffenheim,10 - 6
-01-09-2023,Dortmund,Heidenheim,3 - 6
-17-09-2023,Heidenheim,Werder Bremen,10 - 1
-24-09-2023,Leverkusen,Heidenheim,7 - 2
-30-09-2023,Heidenheim,Union Berlin,5 - 7
-08-10-2023,Ein Frankfurt,Heidenheim,3 - 6
-22-10-2023,Heidenheim,Augsburg,6 - 5
-28-10-2023,M''gladbach,Heidenheim,6 - 4
-05-11-2023,Heidenheim,Stuttgart,9 - 5
-11-11-2023,Bayern Munich,Heidenheim,7 - 2
-26-11-2023,Heidenheim,Bochum,6 - 5
-02-12-2023,RB Leipzig,Heidenheim,5 - 3
-09-12-2023,Heidenheim,Darmstadt,-
-19-08-2023,Hoffenheim,Freiburg,4 - 2
-26-08-2023,Heidenheim,Hoffenheim,10 - 6
-02-09-2023,Hoffenheim,Wolfsburg,3 - 3
-16-09-2023,FC Koln,Hoffenheim,13 - 4
-23-09-2023,Union Berlin,Hoffenheim,11 - 6
-29-09-2023,Hoffenheim,Dortmund,4 - 3
-07-10-2023,Werder Bremen,Hoffenheim,4 - 4
-21-10-2023,Hoffenheim,Ein Frankfurt,6 - 3
-28-10-2023,Stuttgart,Hoffenheim,6 - 0
-04-11-2023,Hoffenheim,Leverkusen,4 - 3
-11-11-2023,Augsburg,Hoffenheim,3 - 5
-26-11-2023,Hoffenheim,Mainz,4 - 5
-02-12-2023,M''gladbach,Hoffenheim,6 - 3
-08-12-2023,Hoffenheim,Bochum,4 - 5
-19-08-2023,Leverkusen,RB Leipzig,4 - 5
-26-08-2023,M''gladbach,Leverkusen,5 - 8
-02-09-2023,Leverkusen,Darmstadt,4 - 2
-15-09-2023,Bayern Munich,Leverkusen,7 - 4
-24-09-2023,Leverkusen,Heidenheim,7 - 2
-30-09-2023,Mainz,Leverkusen,3 - 1
-08-10-2023,Leverkusen,FC Koln,11 - 4
-21-10-2023,Wolfsburg,Leverkusen,4 - 3
-29-10-2023,Leverkusen,Freiburg,11 - 4
-04-11-2023,Hoffenheim,Leverkusen,4 - 3
-12-11-2023,Leverkusen,Union Berlin,10 - 1
-25-11-2023,Werder Bremen,Leverkusen,1 - 6
-03-12-2023,Leverkusen,Dortmund,16 - 1
-10-12-2023,Stuttgart,Leverkusen,-
-19-08-2023,Augsburg,M''gladbach,8 - 7
-26-08-2023,M''gladbach,Leverkusen,5 - 8
-02-09-2023,M''gladbach,Bayern Munich,1 - 15
-17-09-2023,Darmstadt,M''gladbach,6 - 6
-23-09-2023,M''gladbach,RB Leipzig,11 - 6
-30-09-2023,Bochum,M''gladbach,5 - 10
-06-10-2023,M''gladbach,Mainz,10 - 3
-22-10-2023,FC Koln,M''gladbach,8 - 3
-28-10-2023,M''gladbach,Heidenheim,6 - 4
-04-11-2023,Freiburg,M''gladbach,8 - 2
-10-11-2023,M''gladbach,Wolfsburg,8 - 5
-25-11-2023,Dortmund,M''gladbach,5 - 4
-02-12-2023,M''gladbach,Hoffenheim,6 - 3
-09-12-2023,Union Berlin,M''gladbach,-
-20-08-2023,Union Berlin,Mainz,3 - 1
-27-08-2023,Mainz,Ein Frankfurt,5 - 4
-02-09-2023,Werder Bremen,Mainz,1 - 7
-16-09-2023,Mainz,Stuttgart,6 - 4
-23-09-2023,Augsburg,Mainz,3 - 4
-30-09-2023,Mainz,Leverkusen,3 - 1
-06-10-2023,M''gladbach,Mainz,10 - 3
-21-10-2023,Mainz,Bayern Munich,2 - 7
-27-10-2023,Bochum,Mainz,5 - 4
-04-11-2023,Mainz,RB Leipzig,2 - 7
-11-11-2023,Darmstadt,Mainz,0 - 5
-26-11-2023,Hoffenheim,Mainz,4 - 5
-03-12-2023,Mainz,Freiburg,14 - 3
-10-12-2023,FC Koln,Mainz,-
-19-08-2023,Leverkusen,RB Leipzig,4 - 5
-25-08-2023,RB Leipzig,Stuttgart,4 - 4
-03-09-2023,Union Berlin,RB Leipzig,3 - 7
-16-09-2023,RB Leipzig,Augsburg,1 - 6
-23-09-2023,M''gladbach,RB Leipzig,11 - 6
-30-09-2023,RB Leipzig,Bayern Munich,5 - 1
-07-10-2023,RB Leipzig,Bochum,9 - 1
-21-10-2023,Darmstadt,RB Leipzig,6 - 0
-28-10-2023,RB Leipzig,FC Koln,11 - 1
-04-11-2023,Mainz,RB Leipzig,2 - 7
-12-11-2023,RB Leipzig,Freiburg,7 - 3
-25-11-2023,Wolfsburg,RB Leipzig,1 - 12
-02-12-2023,RB Leipzig,Heidenheim,5 - 3
-09-12-2023,Dortmund,RB Leipzig,-
-19-08-2023,Stuttgart,Bochum,6 - 0
-25-08-2023,RB Leipzig,Stuttgart,4 - 4
-02-09-2023,Stuttgart,Freiburg,2 - 4
-16-09-2023,Mainz,Stuttgart,6 - 4
-22-09-2023,Stuttgart,Darmstadt,5 - 4
-30-09-2023,FC Koln,Stuttgart,8 - 4
-07-10-2023,Stuttgart,Wolfsburg,5 - 6
-21-10-2023,Union Berlin,Stuttgart,4 - 2
-28-10-2023,Stuttgart,Hoffenheim,6 - 0
-05-11-2023,Heidenheim,Stuttgart,9 - 5
-11-11-2023,Stuttgart,Dortmund,6 - 1
-25-11-2023,Ein Frankfurt,Stuttgart,4 - 2
-02-12-2023,Stuttgart,Werder Bremen,6 - 7
-10-12-2023,Stuttgart,Leverkusen,-
-20-08-2023,Union Berlin,Mainz,3 - 1
-26-08-2023,Darmstadt,Union Berlin,3 - 5
-03-09-2023,Union Berlin,RB Leipzig,3 - 7
-16-09-2023,Wolfsburg,Union Berlin,3 - 7
-23-09-2023,Union Berlin,Hoffenheim,11 - 6
-30-09-2023,Heidenheim,Union Berlin,5 - 7
-07-10-2023,Dortmund,Union Berlin,4 - 6
-21-10-2023,Union Berlin,Stuttgart,4 - 2
-28-10-2023,Werder Bremen,Union Berlin,3 - 3
-04-11-2023,Union Berlin,Ein Frankfurt,9 - 1
-12-11-2023,Leverkusen,Union Berlin,10 - 1
-25-11-2023,Union Berlin,Augsburg,3 - 4
-09-12-2023,Union Berlin,M''gladbach,-
-18-08-2023,Werder Bremen,Bayern Munich,0 - 6
-26-08-2023,Freiburg,Werder Bremen,5 - 5
-02-09-2023,Werder Bremen,Mainz,1 - 7
-17-09-2023,Heidenheim,Werder Bremen,10 - 1
-23-09-2023,Werder Bremen,FC Koln,9 - 8
-01-10-2023,Darmstadt,Werder Bremen,2 - 4
-07-10-2023,Werder Bremen,Hoffenheim,4 - 4
-20-10-2023,Dortmund,Werder Bremen,10 - 4
-28-10-2023,Werder Bremen,Union Berlin,3 - 3
-05-11-2023,Wolfsburg,Werder Bremen,5 - 2
-12-11-2023,Werder Bremen,Ein Frankfurt,3 - 7
-25-11-2023,Werder Bremen,Leverkusen,1 - 6
-02-12-2023,Stuttgart,Werder Bremen,6 - 7
-09-12-2023,Werder Bremen,Augsburg,-
-19-08-2023,Wolfsburg,Heidenheim,1 - 7
-26-08-2023,FC Koln,Wolfsburg,6 - 1
-02-09-2023,Hoffenheim,Wolfsburg,3 - 3
-16-09-2023,Wolfsburg,Union Berlin,3 - 7
-23-09-2023,Dortmund,Wolfsburg,5 - 3
-30-09-2023,Wolfsburg,Ein Frankfurt,7 - 4
-07-10-2023,Stuttgart,Wolfsburg,5 - 6
-21-10-2023,Wolfsburg,Leverkusen,4 - 3
-28-10-2023,Augsburg,Wolfsburg,5 - 5
-05-11-2023,Wolfsburg,Werder Bremen,5 - 2
-10-11-2023,M''gladbach,Wolfsburg,8 - 5
-25-11-2023,Wolfsburg,RB Leipzig,1 - 12
-02-12-2023,Bochum,Wolfsburg,6 - 6
-09-12-2023,Wolfsburg,Freiburg,-
+13-08-2023,Brest,Lens,6 - 8
+20-08-2023,Le Havre,Brest,5 - 3
+26-08-2023,Marseille,Brest,3 - 10
+02-09-2023,Brest,Rennes,7 - 5
+17-09-2023,Reims,Brest,8 - 8
+23-09-2023,Brest,Lyon,10 - 1
+01-10-2023,Nice,Brest,6 - 4
+08-10-2023,Brest,Toulouse,3 - 5
+22-10-2023,Lille,Brest,3 - 5
+29-10-2023,Brest,Paris SG,9 - 5
+05-11-2023,Monaco,Brest,6 - 4
+26-11-2023,Montpellier,Brest,9 - 1
+03-12-2023,Brest,Clermont,4 - 2
+07-12-2023,Brest,Strasbourg,6 - 0
+10-12-2023,Metz,Brest,-
+13-08-2023,Clermont,Monaco,6 - 2
+20-08-2023,Reims,Clermont,3 - 10
+27-08-2023,Clermont,Metz,10 - 2
+03-09-2023,Toulouse,Clermont,0 - 8
+17-09-2023,Clermont,Nantes,6 - 3
+24-09-2023,Le Havre,Clermont,1 - 3
+30-09-2023,Clermont,Paris SG,6 - 9
+22-10-2023,Lyon,Clermont,10 - 3
+27-10-2023,Clermont,Nice,2 - 2
+05-11-2023,Strasbourg,Clermont,4 - 6
+12-11-2023,Clermont,Lorient,5 - 4
+25-11-2023,Clermont,Lens,2 - 4
+29-11-2023,Montpellier,Clermont,8 - 0
+03-12-2023,Brest,Clermont,4 - 2
+10-12-2023,Clermont,Lille,-
+13-08-2023,Montpellier,Le Havre,4 - 2
+20-08-2023,Le Havre,Brest,5 - 3
+27-08-2023,Rennes,Le Havre,4 - 2
+03-09-2023,Le Havre,Lorient,5 - 4
+17-09-2023,Lyon,Le Havre,6 - 1
+24-09-2023,Le Havre,Clermont,1 - 3
+01-10-2023,Le Havre,Lille,6 - 6
+08-10-2023,Marseille,Le Havre,4 - 3
+20-10-2023,Le Havre,Lens,3 - 3
+29-10-2023,Metz,Le Havre,5 - 6
+05-11-2023,Toulouse,Le Havre,4 - 6
+11-11-2023,Le Havre,Monaco,2 - 4
+26-11-2023,Nantes,Le Havre,10 - 5
+03-12-2023,Le Havre,Paris SG,9 - 2
+10-12-2023,Strasbourg,Le Havre,-
+13-08-2023,Brest,Lens,6 - 8
+20-08-2023,Lens,Rennes,11 - 0
+26-08-2023,Paris SG,Lens,5 - 5
+02-09-2023,Monaco,Lens,5 - 2
+16-09-2023,Lens,Metz,9 - 1
+24-09-2023,Lens,Toulouse,9 - 4
+29-09-2023,Strasbourg,Lens,2 - 3
+08-10-2023,Lens,Lille,8 - 5
+20-10-2023,Le Havre,Lens,3 - 3
+28-10-2023,Lens,Nantes,4 - 1
+04-11-2023,Lorient,Lens,1 - 5
+12-11-2023,Lens,Marseille,4 - 5
+25-11-2023,Clermont,Lens,2 - 4
+02-12-2023,Lens,Lyon,3 - 6
+08-12-2023,Montpellier,Lens,4 - 3
+11-08-2023,Nice,Lille,3 - 3
+20-08-2023,Lille,Nantes,7 - 5
+27-08-2023,Lorient,Lille,5 - 8
+03-09-2023,Lille,Montpellier,5 - 5
+16-09-2023,Rennes,Lille,5 - 2
+26-09-2023,Lille,Reims,4 - 2
+01-10-2023,Le Havre,Lille,6 - 6
+08-10-2023,Lens,Lille,8 - 5
+22-10-2023,Lille,Brest,3 - 5
+29-10-2023,Lille,Monaco,2 - 8
+04-11-2023,Marseille,Lille,2 - 8
+12-11-2023,Lille,Toulouse,11 - 1
+26-11-2023,Lyon,Lille,3 - 5
+03-12-2023,Lille,Metz,6 - 1
+10-12-2023,Clermont,Lille,-
+12-08-2023,Paris SG,Lorient,9 - 2
+20-08-2023,Lorient,Nice,0 - 9
+27-08-2023,Lorient,Lille,5 - 8
+03-09-2023,Le Havre,Lorient,5 - 4
+17-09-2023,Lorient,Monaco,8 - 6
+23-09-2023,Nantes,Lorient,4 - 2
+01-10-2023,Lorient,Montpellier,8 - 3
+08-10-2023,Lyon,Lorient,5 - 2
+22-10-2023,Lorient,Rennes,6 - 16
+28-10-2023,Reims,Lorient,4 - 4
+04-11-2023,Lorient,Lens,1 - 5
+12-11-2023,Clermont,Lorient,5 - 4
+26-11-2023,Lorient,Metz,5 - 6
+03-12-2023,Toulouse,Lorient,3 - 4
+10-12-2023,Lorient,Marseille,-
+13-08-2023,Strasbourg,Lyon,1 - 6
+19-08-2023,Lyon,Montpellier,6 - 2
+27-08-2023,Nice,Lyon,7 - 2
+03-09-2023,Lyon,Paris SG,5 - 2
+17-09-2023,Lyon,Le Havre,6 - 1
+23-09-2023,Brest,Lyon,10 - 1
+01-10-2023,Reims,Lyon,1 - 5
+08-10-2023,Lyon,Lorient,5 - 2
+22-10-2023,Lyon,Clermont,10 - 3
+05-11-2023,Lyon,Metz,4 - 9
+12-11-2023,Rennes,Lyon,6 - 9
+26-11-2023,Lyon,Lille,3 - 5
+02-12-2023,Lens,Lyon,3 - 6
+06-12-2023,Marseille,Lyon,10 - 3
+10-12-2023,Lyon,Toulouse,-
+12-08-2023,Marseille,Reims,10 - 10
+18-08-2023,Metz,Marseille,4 - 9
+26-08-2023,Marseille,Brest,3 - 10
+01-09-2023,Nantes,Marseille,2 - 7
+17-09-2023,Marseille,Toulouse,6 - 1
+24-09-2023,Paris SG,Marseille,8 - 3
+30-09-2023,Monaco,Marseille,2 - 6
+08-10-2023,Marseille,Le Havre,4 - 3
+21-10-2023,Nice,Marseille,4 - 2
+04-11-2023,Marseille,Lille,2 - 8
+12-11-2023,Lens,Marseille,4 - 5
+25-11-2023,Strasbourg,Marseille,7 - 11
+03-12-2023,Marseille,Rennes,1 - 6
+06-12-2023,Marseille,Lyon,10 - 3
+10-12-2023,Lorient,Marseille,-
+13-08-2023,Rennes,Metz,5 - 4
+18-08-2023,Metz,Marseille,4 - 9
+27-08-2023,Clermont,Metz,10 - 2
+03-09-2023,Metz,Reims,4 - 1
+16-09-2023,Lens,Metz,9 - 1
+24-09-2023,Metz,Strasbourg,1 - 1
+01-10-2023,Toulouse,Metz,4 - 6
+07-10-2023,Metz,Nice,1 - 4
+22-10-2023,Monaco,Metz,10 - 2
+29-10-2023,Metz,Le Havre,5 - 6
+05-11-2023,Lyon,Metz,4 - 9
+12-11-2023,Metz,Nantes,2 - 5
+26-11-2023,Lorient,Metz,5 - 6
+03-12-2023,Lille,Metz,6 - 1
+10-12-2023,Metz,Brest,-
+13-08-2023,Clermont,Monaco,6 - 2
+20-08-2023,Monaco,Strasbourg,4 - 3
+25-08-2023,Nantes,Monaco,1 - 10
+02-09-2023,Monaco,Lens,5 - 2
+17-09-2023,Lorient,Monaco,8 - 6
+22-09-2023,Monaco,Nice,5 - 2
+30-09-2023,Monaco,Marseille,2 - 6
+07-10-2023,Reims,Monaco,10 - 5
+22-10-2023,Monaco,Metz,10 - 2
+29-10-2023,Lille,Monaco,2 - 8
+05-11-2023,Monaco,Brest,6 - 4
+11-11-2023,Le Havre,Monaco,2 - 4
+24-11-2023,Paris SG,Monaco,2 - 10
+03-12-2023,Monaco,Montpellier,8 - 2
+09-12-2023,Rennes,Monaco,5 - 5
+13-08-2023,Montpellier,Le Havre,4 - 2
+19-08-2023,Lyon,Montpellier,6 - 2
+27-08-2023,Montpellier,Reims,5 - 3
+03-09-2023,Lille,Montpellier,5 - 5
+17-09-2023,Strasbourg,Montpellier,2 - 4
+24-09-2023,Montpellier,Rennes,3 - 5
+01-10-2023,Lorient,Montpellier,8 - 3
+22-10-2023,Nantes,Montpellier,4 - 3
+29-10-2023,Montpellier,Toulouse,3 - 4
+03-11-2023,Paris SG,Montpellier,9 - 2
+10-11-2023,Montpellier,Nice,3 - 7
+26-11-2023,Montpellier,Brest,9 - 1
+29-11-2023,Montpellier,Clermont,8 - 0
+03-12-2023,Monaco,Montpellier,8 - 2
+08-12-2023,Montpellier,Lens,4 - 3
+13-08-2023,Nantes,Toulouse,7 - 5
+20-08-2023,Lille,Nantes,7 - 5
+25-08-2023,Nantes,Monaco,1 - 10
+01-09-2023,Nantes,Marseille,2 - 7
+17-09-2023,Clermont,Nantes,6 - 3
+23-09-2023,Nantes,Lorient,4 - 2
+01-10-2023,Rennes,Nantes,6 - 4
+06-10-2023,Strasbourg,Nantes,3 - 11
+22-10-2023,Nantes,Montpellier,4 - 3
+28-10-2023,Lens,Nantes,4 - 1
+05-11-2023,Nantes,Reims,10 - 6
+12-11-2023,Metz,Nantes,2 - 5
+26-11-2023,Nantes,Le Havre,10 - 5
+02-12-2023,Nantes,Nice,5 - 6
+09-12-2023,Paris SG,Nantes,5 - 3
+11-08-2023,Nice,Lille,3 - 3
+20-08-2023,Lorient,Nice,0 - 9
+27-08-2023,Nice,Lyon,7 - 2
+03-09-2023,Nice,Strasbourg,5 - 2
+15-09-2023,Paris SG,Nice,4 - 3
+22-09-2023,Monaco,Nice,5 - 2
+01-10-2023,Nice,Brest,6 - 4
+07-10-2023,Metz,Nice,1 - 4
+21-10-2023,Nice,Marseille,4 - 2
+27-10-2023,Clermont,Nice,2 - 2
+05-11-2023,Nice,Rennes,2 - 1
+10-11-2023,Montpellier,Nice,3 - 7
+26-11-2023,Nice,Toulouse,4 - 2
+02-12-2023,Nantes,Nice,5 - 6
+10-12-2023,Nice,Reims,-
+12-08-2023,Paris SG,Lorient,9 - 2
+19-08-2023,Toulouse,Paris SG,5 - 5
+26-08-2023,Paris SG,Lens,5 - 5
+03-09-2023,Lyon,Paris SG,5 - 2
+15-09-2023,Paris SG,Nice,4 - 3
+24-09-2023,Paris SG,Marseille,8 - 3
+30-09-2023,Clermont,Paris SG,6 - 9
+08-10-2023,Rennes,Paris SG,1 - 7
+21-10-2023,Paris SG,Strasbourg,1 - 6
+29-10-2023,Brest,Paris SG,9 - 5
+03-11-2023,Paris SG,Montpellier,9 - 2
+11-11-2023,Reims,Paris SG,8 - 3
+24-11-2023,Paris SG,Monaco,2 - 10
+03-12-2023,Le Havre,Paris SG,9 - 2
+09-12-2023,Paris SG,Nantes,5 - 3
+12-08-2023,Marseille,Reims,10 - 10
+20-08-2023,Reims,Clermont,3 - 10
+27-08-2023,Montpellier,Reims,5 - 3
+03-09-2023,Metz,Reims,4 - 1
+17-09-2023,Reims,Brest,8 - 8
+26-09-2023,Lille,Reims,4 - 2
+01-10-2023,Reims,Lyon,1 - 5
+07-10-2023,Reims,Monaco,10 - 5
+22-10-2023,Toulouse,Reims,5 - 7
+28-10-2023,Reims,Lorient,4 - 4
+05-11-2023,Nantes,Reims,10 - 6
+11-11-2023,Reims,Paris SG,8 - 3
+26-11-2023,Rennes,Reims,1 - 8
+01-12-2023,Reims,Strasbourg,4 - 5
+10-12-2023,Nice,Reims,-
+13-08-2023,Rennes,Metz,5 - 4
+20-08-2023,Lens,Rennes,11 - 0
+27-08-2023,Rennes,Le Havre,4 - 2
+02-09-2023,Brest,Rennes,7 - 5
+16-09-2023,Rennes,Lille,5 - 2
+24-09-2023,Montpellier,Rennes,3 - 5
+01-10-2023,Rennes,Nantes,6 - 4
+08-10-2023,Rennes,Paris SG,1 - 7
+22-10-2023,Lorient,Rennes,6 - 16
+29-10-2023,Rennes,Strasbourg,7 - 5
+05-11-2023,Nice,Rennes,2 - 1
+12-11-2023,Rennes,Lyon,6 - 9
+26-11-2023,Rennes,Reims,1 - 8
+03-12-2023,Marseille,Rennes,1 - 6
+09-12-2023,Rennes,Monaco,5 - 5
+13-08-2023,Strasbourg,Lyon,1 - 6
+20-08-2023,Monaco,Strasbourg,4 - 3
+27-08-2023,Strasbourg,Toulouse,3 - 3
+03-09-2023,Nice,Strasbourg,5 - 2
+17-09-2023,Strasbourg,Montpellier,2 - 4
+24-09-2023,Metz,Strasbourg,1 - 1
+29-09-2023,Strasbourg,Lens,2 - 3
+06-10-2023,Strasbourg,Nantes,3 - 11
+21-10-2023,Paris SG,Strasbourg,1 - 6
+29-10-2023,Rennes,Strasbourg,7 - 5
+05-11-2023,Strasbourg,Clermont,4 - 6
+25-11-2023,Strasbourg,Marseille,7 - 11
+01-12-2023,Reims,Strasbourg,4 - 5
+07-12-2023,Brest,Strasbourg,6 - 0
+10-12-2023,Strasbourg,Le Havre,-
+13-08-2023,Nantes,Toulouse,7 - 5
+19-08-2023,Toulouse,Paris SG,5 - 5
+27-08-2023,Strasbourg,Toulouse,3 - 3
+03-09-2023,Toulouse,Clermont,0 - 8
+17-09-2023,Marseille,Toulouse,6 - 1
+24-09-2023,Lens,Toulouse,9 - 4
+01-10-2023,Toulouse,Metz,4 - 6
+08-10-2023,Brest,Toulouse,3 - 5
+22-10-2023,Toulouse,Reims,5 - 7
+29-10-2023,Montpellier,Toulouse,3 - 4
+05-11-2023,Toulouse,Le Havre,4 - 6
+12-11-2023,Lille,Toulouse,11 - 1
+26-11-2023,Nice,Toulouse,4 - 2
+03-12-2023,Toulouse,Lorient,3 - 4
+10-12-2023,Lyon,Toulouse,-
