@@ -4,7 +4,7 @@
 # Football Corners Data Scraper
 
 ## Overview
-This Python script uses Selenium to scrape detailed football match information from the website [Adam Choi - Corners](https://www.adamchoi.co.uk/corners/detailed). The script extracts data for matches, including date, home team, away team, and score, for the specified country (Germany in this case).
+This Python script uses Selenium to scrape detailed football match information from the website [Adam Choi - Corners](https://www.adamchoi.co.uk/corners/detailed). The script extracts data for matches, including date, home team, away team, and score, for the specified country (France in this case).
 
 ## Requirements
 - Python
